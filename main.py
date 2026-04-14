@@ -1,1 +1,2 @@
-print('Test of Git REPO')
+import pygame
+
