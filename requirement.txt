@@ -1,3 +1,2 @@
 Lisencing the main Australian map is sourced from common wikipedia:
-    In accordance with liscencing the orginal link is:https://commons.wikimedia.org/wiki/File:Australia_states_blank.png
-    
+    In accordance with liscencing the orginal link is: https://commons.wikimedia.org/wiki/File%3AAustralia_map%2C_States.svg
